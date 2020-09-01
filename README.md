@@ -1,9 +1,9 @@
 # Snake-Game-Discription
 It is our first experience towards game development. In this project we have used the basic library of python to create this game that is pygame..
 In this project we have used common library of python that is pygame and I have completed many small project with tkinter  library like 
-Alarm Clock
-Email Slicer
-Random password generator
+Alarm Clock,
+Email Slicer,
+Random password generator,
 Simple Calculator etc.
 
 As we have mentioned earlier that it is our first one so to make it perfect we have taken help from online platforms such as google and youtube. By watching videos we get a whole idea to improve this project and add new features in it.
