@@ -104,7 +104,8 @@ def gameloop():
 
             gameWindow.fill(black)
             text_screen("Score: " + str(score * 10), pink, 5, 5)
-            text_screen("Black is the snake and Red is your food" , blue, 550,0)
+            text_screen("Blue is the snake" , blue, 550,0)
+            text_screen("Pink is the food",pink,595,0)
             pygame.draw.rect(gameWindow, pink, [food_x, food_y, snake_size, snake_size])
 
 
