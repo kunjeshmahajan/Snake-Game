@@ -11,3 +11,4 @@ We have imported a song so to make it attractive and laser sounds when the snake
 We have used modules to increase the speed of the snake as it eats the food... the more it eats the more speed it gets.
 We have also given instructions so to get familiar with modules of pygame. We recommend you to watch that first then move to code.
 At last Thank you for referring this and learn more and update more by yourself in the code.
+Watch out my profile to find more interesting projects.
