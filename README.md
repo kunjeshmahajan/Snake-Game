@@ -1,4 +1,4 @@
-# Snake-Game-Discription
+# Snake-Game-Description
 It is our first experience towards game development. In this project we have used the basic library of python to create this game that is pygame..
 In this project we have used common library of python that is pygame and I have completed many small project with tkinter  library like 
 Alarm Clock,
